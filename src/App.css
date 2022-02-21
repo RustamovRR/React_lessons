@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  min-width: 100px;
+  min-height: 50px;
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.canceled {
+  border: 1px solid orange;
+  background-color: white;
+}
