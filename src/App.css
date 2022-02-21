@@ -12,6 +12,9 @@
   align-items: center;
   justify-content: center;
   margin: 20px;
+  font-weight: 500;
+  font-size: 20px;
+  cursor: pointer;
 }
 
 .canceled {

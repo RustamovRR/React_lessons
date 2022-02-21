@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from './Button'
+import ButtonFunction from './ButtonFunction'
 import './App.css';
 
 function App(props) {
@@ -15,7 +15,7 @@ function App(props) {
       <button onClick={handleShow}>
         show
       </button>
-      {show && <Button />}
+      {show && <ButtonFunction />}
     </div>
   );
 }
