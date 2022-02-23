@@ -1,21 +1,12 @@
 import React from 'react';
-import ButtonFunction from './ButtonFunction'
+import App2 from './2-dars/App2';
+
 import './App.css';
 
 function App(props) {
-  const [show, setShow] = React.useState(true)
-
-  const handleShow = () => {
-    setShow(false)
-  }
-
   return (
     <div className="App">
-
-      <button onClick={handleShow}>
-        show
-      </button>
-      {show && <ButtonFunction />}
+      <App2 />
     </div>
   );
 }

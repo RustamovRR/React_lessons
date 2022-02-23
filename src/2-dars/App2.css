@@ -1,0 +1,16 @@
+/* .wrapper_app2 {} */
+
+.app2 {
+  width: 100vw;
+  background-color: white !important;
+}
+
+.button {
+  width: 300px;
+  margin-left: 20px !important;
+  margin-top: 50px !important;
+}
+
+.input {
+  margin-top: 10px !important;
+}
