@@ -1,0 +1,16 @@
+.wrapper_app3 {
+  width: 100vw !important;
+}
+
+.MuiDrawer-paper {
+  padding: 20px;
+  width: 240px !important;
+}
+
+.MuiListItemText-primary {
+  font-weight: bold !important;
+}
+
+.progress {
+  margin: 50px;
+}

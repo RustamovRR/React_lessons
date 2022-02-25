@@ -1,12 +1,12 @@
 import React from 'react';
-import App2 from './2-dars/App2';
+import App3 from './3-dars/App3';
 
 import './App.css';
 
 function App(props) {
   return (
     <div className="App">
-      <App2 />
+      <App3 />
     </div>
   );
 }
