@@ -1,0 +1,36 @@
+.wrapper_app3 {
+  width: 100vw !important;
+}
+
+.body_wrapper {
+  margin-left: 20vw;
+}
+
+.MuiListItemText-primary {
+  font-weight: bold !important;
+}
+
+.MuiList-root {
+  width: 60%;
+  background-color: #edf0ef;
+}
+
+.MuiListItem-root:hover {
+  cursor: pointer;
+  user-select: none;
+  background-color: #fff;
+}
+
+.MuiCard-root {
+  margin: 20px;
+  margin-left: 10vw;
+}
+
+.progress {
+  margin: 50px;
+}
+
+.list_link {
+  color: inherit;
+  text-decoration: none !important;
+}
